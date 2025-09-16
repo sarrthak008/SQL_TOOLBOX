@@ -46,3 +46,5 @@ desc user;
                         (7,"pratik",21,"mumbai","hello i am pratik");
  select * from user;
 
+use sarthak;
+
