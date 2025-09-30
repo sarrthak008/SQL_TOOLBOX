@@ -12,6 +12,8 @@ create table students(
  
  -- add a new column 
  
+ alter table students add column class_teacher varchar(100);
+ 
  -- ALTER TABLE....
  
  -- rename attribute name 
